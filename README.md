@@ -51,6 +51,7 @@ The api url is defined by you in the app.py.
 API method:POST
 Format:JSON
 API Parameters:
+
 Parameter | Required | Type | Description
 ------------ | ------------ | ----------- | ------------
 image | * | String | Image's source url
