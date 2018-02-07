@@ -16,6 +16,7 @@ Install Flask:
 $ pip install Flask
 ```
 [More about Flask](http://flask.pocoo.org/)
+
 [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)by Miguel Grinberg
 
 ## Step 3 Run app.py after Flask is installed
